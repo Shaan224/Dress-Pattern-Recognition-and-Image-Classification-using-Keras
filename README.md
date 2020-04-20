@@ -12,14 +12,14 @@ To build an image recognition model which is capable of identifying the pattern 
 
 
 # Tools And Technologies
-1)Anaconda — Anaconda is a free and open source distribution of the Python and R programming languages for data science and machine learning related applications, that aims to simplify package management and deployment. You can download it from the link below according to your system https://www.anaconda.com/download/
+1) Anaconda — Anaconda is a free and open source distribution of the Python and R programming languages for data science and machine  learning related applications, that aims to simplify package management and deployment. You can download it from the link below according to your system https://www.anaconda.com/download/
 
-2)Tensorflow — TensorFlow is an open-source software library for dataflow programming across a range of tasks. Download link — https://www.tensorflow.org/install/install_windows
+2) Tensorflow — TensorFlow is an open-source software library for dataflow programming across a range of tasks. Download link — https://www.tensorflow.org/install/install_windows
 
-3)Keras — Keras is an open source neural network library written in Python. Activate Tensorflow env and install keras using:
+3) Keras — Keras is an open source neural network library written in Python. Activate Tensorflow env and install keras using:
 pip install keras
 
-4)CNN — Convolution Neural network , a class of deep, feed-forward artificial neural networks, most commonly applied to analyzing visual imagery.
+4) CNN — Convolution Neural network , a class of deep, feed-forward artificial neural networks, most commonly applied to analyzing visual imagery.
 
 # Steps
 
