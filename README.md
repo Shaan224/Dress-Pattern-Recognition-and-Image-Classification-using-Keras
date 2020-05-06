@@ -48,3 +48,5 @@ pip install keras
 * cnn_model_weights.h5 - Model weights
 * Accuracy Plots.png - Training Accuracy vs Validation Accuracy
 * Loss Plots.png - Training Loss vs Validation Loss
+
+Please find the model jupyter notebook with interactive plots [here](https://nbviewer.jupyter.org/github/Shaan224/Dress-Pattern-Recognition-and-Image-Classification-using-Keras/blob/master/Dress_Pattern_Recognition_And_Classification.ipynb)
